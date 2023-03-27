@@ -1,0 +1,27 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADw/wAAAAD/D0/UDwAA/939RNT//wDf3d1ERET08N3d3fT/T/Tw/RHd/URP9N/9/739/0//393dvU1ERA/f3d3d/URP/9/9Ed30/0/03/3/3URET/Tw3d39RET0/wD//w9P1A8AAAAAAPD/AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "prisoner 01"
+    },
+    "image2": {
+        "data": "hwQRABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/w8AAAAAAAAAAAD/RfIAAAAAAAAAAP9FRFQPAAAAAAAA/yREIkXyAAAAAADwIkRUJET0AAAAAAAA/yJERCXyAAAAAAAAAP8iRCIPAAAAAAAAAAD/IvIAAAAAAAAAAAAA/w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fire drop"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAADw/wAAAP//D0/UDwDw3d39RET0/9/9/91ERE/03/0R3fT/T/Tf3d3d/URP/9/d3b1NREQP3/3/vf3/T//w/RHd/URP9PDd3d30/0/0AN/d3URERPQA/939RNT//wAA/w9P1A8AAAAAAPD/AAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "prisoner 0"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD/AAAAAAAA8HcPAPD/DwDwd/8ALyLyAAB/d/8iIiIPAH9//yIiIg8A8Pf3LyIiDwDw9/ciIiIPAAB/Ly8i8gAAAPAi8v8PAAAA8CIiIg8AAADwIiIiDwAAAPAiIiIPAAAAAC8i8gAAAAAA8P8PAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
